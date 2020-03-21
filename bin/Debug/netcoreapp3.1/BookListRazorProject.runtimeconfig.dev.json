@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Kalana Tebel\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Kalana Tebel\\.nuget\\packages"
+    ]
+  }
+}
